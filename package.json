@@ -1,0 +1,27 @@
+{
+  "name": "mean-stack-starter-kit",
+  "version": "1.0.0",
+  "description": "MEAN Stack Starter Kit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrytilley/mean-stack-starter-kit.git"
+  },
+  "keywords": [],
+  "author": "Terry Tilley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrytilley/mean-stack-starter-kit/issues"
+  },
+  "homepage": "https://github.com/terrytilley/mean-stack-starter-kit#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.6.5"
+  }
+}
